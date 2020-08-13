@@ -10,11 +10,11 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/EdlanioJ/nlw-01">
   
-  <a href="https://github.com/Rocketseat/semana-omnistack-10/commits/master">
+  <a href="https://github.com/EdlanioJ/nlw-01/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EdlanioJ/nlw-01">
   </a>
 
-  <a href="https://github.com/Rocketseat/semana-omnistack-10/issues">
+  <a href="https://github.com/EdlanioJ/nlw-01/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/EdlanioJ/nlw-01">
   </a>
 
